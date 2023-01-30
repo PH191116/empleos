@@ -1,5 +1,5 @@
 # empleos
-Este es un sistema de empleos que esta construido con las siguientes tecnologias:
+Este es un sistema de empleos parecido a los sitios web: Tecoloco y Computrabajo; que esta construido con las siguientes tecnologias:
   1- JS
   2- Spring Boot
   3- Spring MVC
